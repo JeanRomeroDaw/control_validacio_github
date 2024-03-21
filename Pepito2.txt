@@ -2,3 +2,4 @@ Pepito2
 25 años
 SMIX
 tecnic informatic
+Utilitza el IDE Eclipse per programar i treballa amb Trello

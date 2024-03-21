@@ -2,3 +2,4 @@ Pepito1
 20 añoss 
 Daw
 Estudiant
+Utilitza el IDE Visual Studio amb conjunt de algun framework
